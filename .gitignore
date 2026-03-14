@@ -1,0 +1,34 @@
+# dataset
+archive/
+
+# checkpoints
+checkpoints/
+
+# results
+results/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# jupyter
+.ipynb_checkpoints/
+
+# env
+venv/
+.env
+*.env
+
+# os
+.DS_Store
+Thumbs.db
+
+# ide
+.vscode/
+.idea/
